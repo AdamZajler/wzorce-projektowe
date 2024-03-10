@@ -1,0 +1,16 @@
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 2 - Sinlgeton\Ćwiczenie 2 - Sinlgeton\bin\Debug\net5.0\Ćwiczenie 2 - Sinlgeton.exe
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 2 - Sinlgeton\Ćwiczenie 2 - Sinlgeton\bin\Debug\net5.0\Ćwiczenie 2 - Sinlgeton.deps.json
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 2 - Sinlgeton\Ćwiczenie 2 - Sinlgeton\bin\Debug\net5.0\Ćwiczenie 2 - Sinlgeton.runtimeconfig.json
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 2 - Sinlgeton\Ćwiczenie 2 - Sinlgeton\bin\Debug\net5.0\Ćwiczenie 2 - Sinlgeton.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 2 - Sinlgeton\Ćwiczenie 2 - Sinlgeton\bin\Debug\net5.0\Ćwiczenie 2 - Sinlgeton.dll
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 2 - Sinlgeton\Ćwiczenie 2 - Sinlgeton\bin\Debug\net5.0\ref\Ćwiczenie 2 - Sinlgeton.dll
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 2 - Sinlgeton\Ćwiczenie 2 - Sinlgeton\bin\Debug\net5.0\Ćwiczenie 2 - Sinlgeton.pdb
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 2 - Sinlgeton\Ćwiczenie 2 - Sinlgeton\obj\Debug\net5.0\Ćwiczenie 2 - Sinlgeton.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 2 - Sinlgeton\Ćwiczenie 2 - Sinlgeton\obj\Debug\net5.0\Ćwiczenie 2 - Sinlgeton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 2 - Sinlgeton\Ćwiczenie 2 - Sinlgeton\obj\Debug\net5.0\Ćwiczenie 2 - Sinlgeton.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 2 - Sinlgeton\Ćwiczenie 2 - Sinlgeton\obj\Debug\net5.0\Ćwiczenie 2 - Sinlgeton.AssemblyInfo.cs
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 2 - Sinlgeton\Ćwiczenie 2 - Sinlgeton\obj\Debug\net5.0\Ćwiczenie 2 - Sinlgeton.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 2 - Sinlgeton\Ćwiczenie 2 - Sinlgeton\obj\Debug\net5.0\Ćwiczenie 2 - Sinlgeton.dll
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 2 - Sinlgeton\Ćwiczenie 2 - Sinlgeton\obj\Debug\net5.0\ref\Ćwiczenie 2 - Sinlgeton.dll
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 2 - Sinlgeton\Ćwiczenie 2 - Sinlgeton\obj\Debug\net5.0\Ćwiczenie 2 - Sinlgeton.pdb
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 2 - Sinlgeton\Ćwiczenie 2 - Sinlgeton\obj\Debug\net5.0\Ćwiczenie 2 - Sinlgeton.genruntimeconfig.cache
