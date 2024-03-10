@@ -1,0 +1,16 @@
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 1 - Singleton\Ćwiczenie 1 - Singleton\bin\Release\net5.0\Ćwiczenie 1 - Singleton.exe
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 1 - Singleton\Ćwiczenie 1 - Singleton\bin\Release\net5.0\Ćwiczenie 1 - Singleton.deps.json
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 1 - Singleton\Ćwiczenie 1 - Singleton\bin\Release\net5.0\Ćwiczenie 1 - Singleton.runtimeconfig.json
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 1 - Singleton\Ćwiczenie 1 - Singleton\bin\Release\net5.0\Ćwiczenie 1 - Singleton.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 1 - Singleton\Ćwiczenie 1 - Singleton\bin\Release\net5.0\Ćwiczenie 1 - Singleton.dll
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 1 - Singleton\Ćwiczenie 1 - Singleton\bin\Release\net5.0\ref\Ćwiczenie 1 - Singleton.dll
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 1 - Singleton\Ćwiczenie 1 - Singleton\bin\Release\net5.0\Ćwiczenie 1 - Singleton.pdb
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 1 - Singleton\Ćwiczenie 1 - Singleton\obj\Release\net5.0\Ćwiczenie 1 - Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 1 - Singleton\Ćwiczenie 1 - Singleton\obj\Release\net5.0\Ćwiczenie 1 - Singleton.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 1 - Singleton\Ćwiczenie 1 - Singleton\obj\Release\net5.0\Ćwiczenie 1 - Singleton.AssemblyInfo.cs
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 1 - Singleton\Ćwiczenie 1 - Singleton\obj\Release\net5.0\Ćwiczenie 1 - Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 1 - Singleton\Ćwiczenie 1 - Singleton\obj\Release\net5.0\Ćwiczenie 1 - Singleton.dll
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 1 - Singleton\Ćwiczenie 1 - Singleton\obj\Release\net5.0\ref\Ćwiczenie 1 - Singleton.dll
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 1 - Singleton\Ćwiczenie 1 - Singleton\obj\Release\net5.0\Ćwiczenie 1 - Singleton.pdb
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 1 - Singleton\Ćwiczenie 1 - Singleton\obj\Release\net5.0\Ćwiczenie 1 - Singleton.genruntimeconfig.cache
+C:\Users\Student\Desktop\Nowy folder\Ćwiczenie 1 - Singleton\Ćwiczenie 1 - Singleton\obj\Release\net5.0\Ćwiczenie 1 - Singleton.csproj.AssemblyReference.cache
