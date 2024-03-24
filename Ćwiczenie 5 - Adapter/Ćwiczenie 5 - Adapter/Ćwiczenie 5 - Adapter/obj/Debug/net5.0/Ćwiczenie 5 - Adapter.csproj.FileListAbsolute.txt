@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\wzorce-projektowe\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\bin\Debug\net5.0\Ćwiczenie 5 - Adapter.exe
+C:\Users\Student\Desktop\wzorce-projektowe\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\bin\Debug\net5.0\Ćwiczenie 5 - Adapter.deps.json
+C:\Users\Student\Desktop\wzorce-projektowe\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\bin\Debug\net5.0\Ćwiczenie 5 - Adapter.runtimeconfig.json
+C:\Users\Student\Desktop\wzorce-projektowe\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\bin\Debug\net5.0\Ćwiczenie 5 - Adapter.runtimeconfig.dev.json
+C:\Users\Student\Desktop\wzorce-projektowe\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\bin\Debug\net5.0\Ćwiczenie 5 - Adapter.dll
+C:\Users\Student\Desktop\wzorce-projektowe\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\bin\Debug\net5.0\ref\Ćwiczenie 5 - Adapter.dll
+C:\Users\Student\Desktop\wzorce-projektowe\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\bin\Debug\net5.0\Ćwiczenie 5 - Adapter.pdb
+C:\Users\Student\Desktop\wzorce-projektowe\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\obj\Debug\net5.0\Ćwiczenie 5 - Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\wzorce-projektowe\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\obj\Debug\net5.0\Ćwiczenie 5 - Adapter.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\wzorce-projektowe\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\obj\Debug\net5.0\Ćwiczenie 5 - Adapter.AssemblyInfo.cs
+C:\Users\Student\Desktop\wzorce-projektowe\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\obj\Debug\net5.0\Ćwiczenie 5 - Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\wzorce-projektowe\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\obj\Debug\net5.0\Ćwiczenie 5 - Adapter.dll
+C:\Users\Student\Desktop\wzorce-projektowe\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\obj\Debug\net5.0\ref\Ćwiczenie 5 - Adapter.dll
+C:\Users\Student\Desktop\wzorce-projektowe\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\obj\Debug\net5.0\Ćwiczenie 5 - Adapter.pdb
+C:\Users\Student\Desktop\wzorce-projektowe\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\Ćwiczenie 5 - Adapter\obj\Debug\net5.0\Ćwiczenie 5 - Adapter.genruntimeconfig.cache
