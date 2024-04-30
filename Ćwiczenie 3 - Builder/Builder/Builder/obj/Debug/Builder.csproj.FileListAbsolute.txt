@@ -1,0 +1,7 @@
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 3 - Builder\Builder\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 3 - Builder\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 3 - Builder\Builder\Builder\bin\Debug\Builder.exe.config
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 3 - Builder\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 3 - Builder\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 3 - Builder\Builder\Builder\obj\Debug\Builder.exe
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 3 - Builder\Builder\Builder\obj\Debug\Builder.pdb
