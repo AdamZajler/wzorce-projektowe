@@ -1,0 +1,15 @@
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 6 - Dekorator\Ćwiczenie 6 - dekorator\Ćwiczenie 6 - dekorator\bin\Debug\net8.0\Ćwiczenie 6 - dekorator.exe
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 6 - Dekorator\Ćwiczenie 6 - dekorator\Ćwiczenie 6 - dekorator\bin\Debug\net8.0\Ćwiczenie 6 - dekorator.deps.json
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 6 - Dekorator\Ćwiczenie 6 - dekorator\Ćwiczenie 6 - dekorator\bin\Debug\net8.0\Ćwiczenie 6 - dekorator.runtimeconfig.json
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 6 - Dekorator\Ćwiczenie 6 - dekorator\Ćwiczenie 6 - dekorator\bin\Debug\net8.0\Ćwiczenie 6 - dekorator.dll
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 6 - Dekorator\Ćwiczenie 6 - dekorator\Ćwiczenie 6 - dekorator\bin\Debug\net8.0\Ćwiczenie 6 - dekorator.pdb
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 6 - Dekorator\Ćwiczenie 6 - dekorator\Ćwiczenie 6 - dekorator\obj\Debug\net8.0\Ćwiczenie 6 - dekorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 6 - Dekorator\Ćwiczenie 6 - dekorator\Ćwiczenie 6 - dekorator\obj\Debug\net8.0\Ćwiczenie 6 - dekorator.AssemblyInfoInputs.cache
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 6 - Dekorator\Ćwiczenie 6 - dekorator\Ćwiczenie 6 - dekorator\obj\Debug\net8.0\Ćwiczenie 6 - dekorator.AssemblyInfo.cs
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 6 - Dekorator\Ćwiczenie 6 - dekorator\Ćwiczenie 6 - dekorator\obj\Debug\net8.0\Ćwiczenie 6 - dekorator.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 6 - Dekorator\Ćwiczenie 6 - dekorator\Ćwiczenie 6 - dekorator\obj\Debug\net8.0\Ćwiczenie 6 - dekorator.sourcelink.json
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 6 - Dekorator\Ćwiczenie 6 - dekorator\Ćwiczenie 6 - dekorator\obj\Debug\net8.0\Ćwiczenie 6 - dekorator.dll
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 6 - Dekorator\Ćwiczenie 6 - dekorator\Ćwiczenie 6 - dekorator\obj\Debug\net8.0\refint\Ćwiczenie 6 - dekorator.dll
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 6 - Dekorator\Ćwiczenie 6 - dekorator\Ćwiczenie 6 - dekorator\obj\Debug\net8.0\Ćwiczenie 6 - dekorator.pdb
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 6 - Dekorator\Ćwiczenie 6 - dekorator\Ćwiczenie 6 - dekorator\obj\Debug\net8.0\Ćwiczenie 6 - dekorator.genruntimeconfig.cache
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 6 - Dekorator\Ćwiczenie 6 - dekorator\Ćwiczenie 6 - dekorator\obj\Debug\net8.0\ref\Ćwiczenie 6 - dekorator.dll

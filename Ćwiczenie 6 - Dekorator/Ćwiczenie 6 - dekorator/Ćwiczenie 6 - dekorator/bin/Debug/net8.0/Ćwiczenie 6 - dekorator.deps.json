@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ćwiczenie 6 - dekorator/1.0.0": {
+        "runtime": {
+          "Ćwiczenie 6 - dekorator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ćwiczenie 6 - dekorator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
