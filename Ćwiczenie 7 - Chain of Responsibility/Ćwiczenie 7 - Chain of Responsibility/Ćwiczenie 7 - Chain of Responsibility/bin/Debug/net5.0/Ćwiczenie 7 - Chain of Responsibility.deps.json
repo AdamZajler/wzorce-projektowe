@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ćwiczenie 7 - Chain of Responsibility/1.0.0": {
+        "runtime": {
+          "Ćwiczenie 7 - Chain of Responsibility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ćwiczenie 7 - Chain of Responsibility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
