@@ -63,14 +63,7 @@ namespace Ćwiczenie_7___Chain_of_Responsibility
 
         public void HandleTicketRequest(int code, string message)
         {
-            if (code == 3)
-            {
-                Console.WriteLine("Obsługa wiadomości '{0}' przez ogólną pomoc raportów\n", message);
-            }
-            else
-            {
-                successor.HandleTicketRequest(code, message);
-            }
+            Console.WriteLine("Obsługa wiadomości '{0}' przez ogólną pomoc raportów\n", message);
         }
     }
 
