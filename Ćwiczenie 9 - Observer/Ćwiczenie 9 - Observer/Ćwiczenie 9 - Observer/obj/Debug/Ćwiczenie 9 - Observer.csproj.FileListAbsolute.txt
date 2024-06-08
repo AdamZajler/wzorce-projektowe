@@ -1,0 +1,7 @@
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 9 - Observer\Ćwiczenie 9 - Observer\Ćwiczenie 9 - Observer\bin\Debug\Ćwiczenie 9 - Observer.exe.config
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 9 - Observer\Ćwiczenie 9 - Observer\Ćwiczenie 9 - Observer\bin\Debug\Ćwiczenie 9 - Observer.exe
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 9 - Observer\Ćwiczenie 9 - Observer\Ćwiczenie 9 - Observer\bin\Debug\Ćwiczenie 9 - Observer.pdb
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 9 - Observer\Ćwiczenie 9 - Observer\Ćwiczenie 9 - Observer\obj\Debug\Ćwiczenie 9 - Observer.csproj.AssemblyReference.cache
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 9 - Observer\Ćwiczenie 9 - Observer\Ćwiczenie 9 - Observer\obj\Debug\Ćwiczenie 9 - Observer.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 9 - Observer\Ćwiczenie 9 - Observer\Ćwiczenie 9 - Observer\obj\Debug\Ćwiczenie 9 - Observer.exe
+C:\Users\Adam\Desktop\STUDIA\wzorce-projektowe\Ćwiczenie 9 - Observer\Ćwiczenie 9 - Observer\Ćwiczenie 9 - Observer\obj\Debug\Ćwiczenie 9 - Observer.pdb

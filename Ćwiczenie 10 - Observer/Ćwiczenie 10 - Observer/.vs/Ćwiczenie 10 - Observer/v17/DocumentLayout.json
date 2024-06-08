@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adam\\Desktop\\STUDIA\\wzorce-projektowe\\\u0106wiczenie 10 - Observer\\\u0106wiczenie 10 - Observer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{418FB322-C4B0-4CD2-98D4-1A44338E33DF}|\u0106wiczenie 10 - Observer\\\u0106wiczenie 10 - Observer.csproj|c:\\users\\adam\\desktop\\studia\\wzorce-projektowe\\\u0107wiczenie 10 - observer\\\u0107wiczenie 10 - observer\\\u0107wiczenie 10 - observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418FB322-C4B0-4CD2-98D4-1A44338E33DF}|\u0106wiczenie 10 - Observer\\\u0106wiczenie 10 - Observer.csproj|solutionrelative:\u0107wiczenie 10 - observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418FB322-C4B0-4CD2-98D4-1A44338E33DF}|\u0106wiczenie 10 - Observer\\\u0106wiczenie 10 - Observer.csproj|c:\\users\\adam\\desktop\\studia\\wzorce-projektowe\\\u0107wiczenie 10 - observer\\\u0107wiczenie 10 - observer\\\u0107wiczenie 10 - observer\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{418FB322-C4B0-4CD2-98D4-1A44338E33DF}|\u0106wiczenie 10 - Observer\\\u0106wiczenie 10 - Observer.csproj|solutionrelative:\u0107wiczenie 10 - observer\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\Adam\\Desktop\\STUDIA\\wzorce-projektowe\\\u0106wiczenie 10 - Observer\\\u0106wiczenie 10 - Observer\\\u0106wiczenie 10 - Observer\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "\u0106wiczenie 10 - Observer\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\Adam\\Desktop\\STUDIA\\wzorce-projektowe\\\u0106wiczenie 10 - Observer\\\u0106wiczenie 10 - Observer\\\u0106wiczenie 10 - Observer\\ClassDiagram1.cd",
+              "RelativeToolTip": "\u0106wiczenie 10 - Observer\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-06-08T12:47:41.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adam\\Desktop\\STUDIA\\wzorce-projektowe\\\u0106wiczenie 10 - Observer\\\u0106wiczenie 10 - Observer\\\u0106wiczenie 10 - Observer\\Program.cs",
+              "RelativeDocumentMoniker": "\u0106wiczenie 10 - Observer\\Program.cs",
+              "ToolTip": "C:\\Users\\Adam\\Desktop\\STUDIA\\wzorce-projektowe\\\u0106wiczenie 10 - Observer\\\u0106wiczenie 10 - Observer\\\u0106wiczenie 10 - Observer\\Program.cs",
+              "RelativeToolTip": "\u0106wiczenie 10 - Observer\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAQwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:28:51.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
